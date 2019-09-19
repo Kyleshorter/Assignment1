@@ -1,8 +1,7 @@
 # Assignment1
 Data Structs
 CS 3358 Assignment 1 
-Due: 11:55pm Thursday, September 19, 2019 
-Instructor: Kecheng Yang (yangk@txstate.edu) Instructional Assistant: Cody Blakeney (cjb92@txstate.edu) 
+
  
 This assignment have two parts, under the folder stack and queue, respectively. Parts of codes are given in the .cpp and .h files. 
 
